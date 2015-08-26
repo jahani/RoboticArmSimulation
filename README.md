@@ -1,6 +1,6 @@
 # Robotic Arm Motion Simulation
-A tool for robotic arm simulation written in MATLAB
-This is a 3-dof robotic arm with solid links that have different lengths and masses.
+A tool for robotic arm simulation written in MATLAB.
+This is a 3-dof robotic arm with solid links that could have different lengths and masses.
 It considers initial conditions (angular position and velocity) and a constant torque on each joint.
 You could change simulation time and step (time) between two frames.
 Coulomb and Viscous Friction could be changed either.
